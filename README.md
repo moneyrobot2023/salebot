@@ -46,3 +46,8 @@ pip install pytz==2022.6
 далее запускаем файл RUN BOT.cmd
 
 купить дедик для бота (https://clck.ru/34YD6w)
+##
+Полное описание бота (https://telegra.ph/Bot-Avtoprodazh--Telegram-Magazin-2023-05-28)
+##
+если вы по какой то причине не смогли установить сами бот то обращайтесь (https:t.me/fradddyrad) я установлю вам бот за 500р
+##
