@@ -1,5 +1,6 @@
 ## salebot Бот автопродаж в телеграм
 Бот магазина в Tekegram 2023
+![Рисунок 1 ](http://messagu.ru/wp-content/uploads/58061/tmp-a311078c-16b0-4f5a-98ae-2ec6c15b3c01.jpg)
 
 ![Рисунок 1 ](https://conff.org/uploads/posts/2022-05/amc8tfq.png)
 _
