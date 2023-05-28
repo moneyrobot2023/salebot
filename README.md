@@ -1,7 +1,7 @@
 ## salebot Бот автопродаж в телеграм
 **Бот магазина в Tekegram 2023
 
-!(https://conff.org/uploads/posts/2022-05/amc8tfq.png)
+![Рисунок 1 ](https://conff.org/uploads/posts/2022-05/amc8tfq.png)
 _
 **Бот написан полностью нуля на python 3.9 с помощью библиотеки Aiogram. Aiogram - считается лучшей на данный момент ассинхронной библиотекой для телеграм ботов.
 _
@@ -14,18 +14,27 @@ _
 _
 **установка зависимостей
 pip install aiogram==2.22.2
+_
 pip install APScheduler==3.9.1
+_
 pip install colorlog==6.6.0
+_
 pip install beautifulsoup4==4.10.0
+_
 pip install aiohttp==3.8.1
+_
 pip install typing==3.7.4.3
+_
 pip install colorama==0.4.4
+_
 pip install bs4==0.0.1
+_
 pip install pytz==2022.6
+_
 ## Как использовать
 **редактируем файл settings.ini
  
- !(https://skr.sh/i/280523/MzLhvr6C.jpg)
+ ![Рисунок 2 ](https://skr.sh/i/280523/MzLhvr6C.jpg)
 ## запуск бота
 **далее запускаем файл RUN BOT.cmd
 
