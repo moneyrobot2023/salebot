@@ -13,6 +13,7 @@ _
 ## установка зависимостей
 ##
 установка зависимостей
+##
 pip install aiogram==2.22.2
 ##
 pip install APScheduler==3.9.1
